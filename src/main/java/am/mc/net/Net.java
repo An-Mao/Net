@@ -12,6 +12,4 @@ public class Net {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
         NetReg.register(modEventBus);
     }
-
-
 }

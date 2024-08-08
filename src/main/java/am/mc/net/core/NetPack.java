@@ -1,6 +1,5 @@
 package am.mc.net.core;
 
-import am.mc.net.Net;
 import net.minecraft.nbt.CompoundTag;
 import net.minecraft.network.FriendlyByteBuf;
 import net.minecraft.resources.ResourceLocation;
